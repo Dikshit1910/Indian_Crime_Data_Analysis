@@ -98,7 +98,7 @@ Some of the visualizations include:
 ![Dashboard](crime_project_ss/crime_on_genders.png)
 ![Dashboard](crime_project_ss/crime_in_city_weapon_use.png)
 ![Dashboard](crime_project_ss/crime_per_crimedesciption.png)
-![Dashboard](crime_project_ss/top_bottom_5_ages..png)
+![Dashboard](crime_project_ss/top_bottom_5_ages.png)
 ![Dashboard](crime_project_ss/victim_gender_per_city.png)
 ![Dashboard](crime_project_ss/case_closed_citywise.png)
 ![Dashboard](crime_project_ss/advanced_chart.png)
