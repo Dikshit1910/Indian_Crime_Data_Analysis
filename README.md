@@ -94,7 +94,8 @@ Some of the visualizations include:
 
 ## 📷 Project Preview
 
-> Add screenshots of your notebook output or visualizations here.
+[crime_project_ss/crime_per_city.png]
+
 
 Example:
 
